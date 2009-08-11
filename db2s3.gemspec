@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{db2s3}
-  s.version = "0.2.3"
+  s.version = "0.2.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Xavier Shay"]
@@ -30,7 +30,7 @@ Gem::Specification.new do |s|
     tasks/tasks.rake
   )  
   s.has_rdoc = false
-  s.homepage = %q{http://github.com/xaviershay/db2s3}
+  s.homepage = %q{http://github.com/ariossw/db2s3}
   #s.rdoc_options = ["--inline-source", "--charset=UTF-8"]
   s.require_paths = ["lib"]
   #s.rubyforge_project = %q{grit}
